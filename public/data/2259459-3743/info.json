@@ -9,12 +9,12 @@
         "topic": "grammar",
         "questions": [
           {
-            "question": "What is the past tense of 'go'?",
-            "options": ["goed", "gone", "went", "going"],
-            "answer": "went"
+            "question": "What is the past tense of 'see'?",
+            "options": ["say", "soon", "saw", "set"],
+            "answer": "saw"
           },
           {
-            "question": "Which sentence is correct?",
+            "question": "Which is the correct sentence?",
             "options": [
               "I has finished my homework.",
               "I am finish my homework.",

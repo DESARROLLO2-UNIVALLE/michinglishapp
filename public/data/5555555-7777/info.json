@@ -14,7 +14,7 @@
           "answer": "children"
         },
         {
-          "question": "Which sentence is correct?",
+          "question": "Which one is correct?",
           "options": [
             "She don't like ice cream.",
             "She doesn't likes ice cream.",
@@ -42,5 +42,3 @@
     }
   ]
 }
-
-  
