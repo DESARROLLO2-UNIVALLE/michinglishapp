@@ -9,7 +9,7 @@
       "topic": "grammar",
       "questions": [
         {
-          "question": "Which sentence is correct?",
+          "question": "Which one is correct?",
           "options": ["She don't like apples.", "She doesn't likes apples.", "She doesn't like apples.", "She do not like apples."],
           "answer": "She doesn't like apples."
         },
